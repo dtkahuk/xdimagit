@@ -8,5 +8,7 @@ public class Start {
         System.out.println("start");
         System.out.println("master");
         System.out.println("master commit");
+        System.out.println("brunch");
+        System.out.println("brunch second commit");
     }
 }
