@@ -10,6 +10,7 @@ public class Start {
         System.out.println("master commit");
         System.out.println("brunch");
         System.out.println("brunch second commit");
+        System.out.println("fix");
         System.out.println("");
     }
 }
