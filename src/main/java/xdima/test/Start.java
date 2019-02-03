@@ -12,5 +12,6 @@ public class Start {
         System.out.println("brunch second commit");
         System.out.println("fix");
         System.out.println("");
+        printMastr();
     }
 }
