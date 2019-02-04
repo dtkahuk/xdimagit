@@ -9,5 +9,6 @@ public class Start {
         System.out.println("feature1");
         System.out.println("feature2");
         System.out.println("master2");
+        System.out.println("master3");
     }
 }
