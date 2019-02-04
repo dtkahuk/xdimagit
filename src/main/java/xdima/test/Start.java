@@ -10,5 +10,6 @@ public class Start {
         System.out.println("feature2");
         System.out.println("master2");
         System.out.println("master3");
+        System.out.println("master4");
     }
 }
