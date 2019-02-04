@@ -13,5 +13,7 @@ public class Start {
         System.out.println("fix");
         System.out.println("");
         printMastr();
+        System.out.println("feature1");
+	
     }
 }
