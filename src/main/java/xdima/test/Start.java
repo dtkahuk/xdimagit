@@ -14,6 +14,7 @@ public class Start {
         System.out.println("");
         printMastr();
         System.out.println("feature1");
+        System.out.println("feature2");
 	
     }
 }
